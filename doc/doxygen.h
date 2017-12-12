@@ -8,5 +8,5 @@
 @mainpage
 
 This is an automatically generated API documentation for the
-<a href="https://git.int.avast.com/viruslab/retdec/ctypes">Ctypes project</a>.
+<a href="https://github.com/avast-tl/ctypes">Ctypes project</a>.
 */
